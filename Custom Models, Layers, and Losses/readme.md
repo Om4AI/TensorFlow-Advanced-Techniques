@@ -1,1 +1,3 @@
-<img src="./predictions_animation.gif" width="500" alt="Model Predictions Animation">
+### Custom callback - Visualizing the model predictions on MNIST
+
+<img src="./predictions_animation.gif" alt="Model Predictions Animation">
